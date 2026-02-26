@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "至上の人生",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-02-26T07:45:59.514893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shijou no Jinsei [至上の人生]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/01_Shijou_no_Jinsei_[至上の人生]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shijō no Jinsei [至上の人生]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Shijō_no_Jinsei_[至上の人生]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "至上の人生",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_至上の人生_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "至上の人生",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_至上の人生_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "至上の人生",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/05_至上の人生_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "至上の人生",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_至上の人生_椎名_林檎.txt"
+    }
+  ]
+}
